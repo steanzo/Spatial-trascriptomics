@@ -9,9 +9,9 @@ Questo repository raccoglie esclusivamente i codici utilizzati nel mio lavoro di
 
 ## Struttura del Progetto
 - **allineamento/**: Contiene tutti gli script utilizzati per l'allineamento di immagini
--**estrazione/**: Contiene i codicie relativi all'estrazione d'informazione dalle immagini
--**adattamento modello/**: Contiene i codici utilizzati per l'adattamento del modello
--**codici utili/** vengono anche presentati dei codici per l'estrazione di grafici dal modello INLA
+- **estrazione/**: Contiene i codicie relativi all'estrazione d'informazione dalle immagini
+- **adattamento modello/**: Contiene i codici utilizzati per l'adattamento del modello
+- **codici utili/** vengono anche presentati dei codici per l'estrazione di grafici dal modello INLA
 
 ## Programmi e librerie utilizzate
 Per l'allineamento e l'estrazione del'informazione dai fail `zarr` contenenti l'immagini dei tassuti con immunofluorescenza e i livelli di espressione genica è stato utilizzato il linguaggio di programmazione **python** e i seguenti pacchetti: **spatialdata**, **napari** e **squidpy**.
